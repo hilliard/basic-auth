@@ -76,6 +76,7 @@ GEM
     rake (10.1.0)
     rdoc (3.12.2)
       json (~> 1.4)
+    recaptcha (0.3.5)
     sass (3.2.10)
     sass-rails (4.0.0)
       railties (>= 4.0.0.beta, < 5.0)
@@ -119,6 +120,7 @@ DEPENDENCIES
   protected_attributes
   rails (= 4.0.0)
   railties
+  recaptcha
   sass-rails (~> 4.0.0)
   sdoc
   turbolinks

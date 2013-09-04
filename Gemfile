@@ -38,6 +38,9 @@ gem 'bcrypt-ruby',  :require => "bcrypt"
 # attr_accessible` is extracted out of Rails into a gem
 gem 'protected_attributes'
 
+# some protection from robots
+gem 'recaptcha', :require => "recaptcha/rails"
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
