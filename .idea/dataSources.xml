@@ -5,7 +5,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:basic-auth_production</jdbc-url>
       <user-name>basic-auth</user-name>
-      <user-password>dfcbdfc8dfc9df9bdf98df99</user-password>
+      <user-password>dfcddfdedfd8dfc5dfc9dfc1dfd9</user-password>
       <libraries>
         <library>
           <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
@@ -19,7 +19,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:basic-auth_test</jdbc-url>
       <user-name>basic-auth</user-name>
-      <user-password>dfcbdfc8dfc9df9bdf98df99</user-password>
+      <user-password>dfcddfdedfd8dfc5dfc9dfc1dfd9</user-password>
       <libraries>
         <library>
           <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
@@ -33,7 +33,7 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:basic-auth_development</jdbc-url>
       <user-name>basic-auth</user-name>
-      <user-password>dfcbdfc8dfc9df9bdf98df99</user-password>
+      <user-password>dfcddfdedfd8dfc5dfc9dfc1dfd9</user-password>
       <libraries>
         <library>
           <url>file://$USER_HOME$/.RubyMine50/config/jdbc-drivers/postgresql-driver-license.txt</url>
